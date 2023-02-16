@@ -1,0 +1,24 @@
+.inc_header {
+    padding: 10px 0 20px 40px;
+}
+
+.inc_descr {
+    width: 70%;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.inc_title {
+    color: #356a8f;
+    font-weight: 800;
+    font-size: 25px;
+}
+
+ul {
+    padding-left: 40px;
+}
+
+.inc_footer_photo {
+    width: 100%;
+    margin-bottom: -4px;
+}
